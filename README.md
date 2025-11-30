@@ -1,4 +1,4 @@
-# HamiltonianPath
+# Hamiltonian Path
 
 ## 1. Popis reseneho problemu
 
