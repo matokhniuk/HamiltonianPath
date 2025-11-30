@@ -200,7 +200,7 @@ Uvadim pozorovani:
 - Pocet vrcholu: 5  
 - Pocet promennych: 25  
 - Pocet klauzuli: 158  
-- Doba behu Glucose: < 0.01 s  
+- Doba behu Glucose: 0.01 s  
 
 Solver okamzite nasel cestu.  
 Kodovani funguje spravne.
@@ -210,7 +210,7 @@ Kodovani funguje spravne.
 - Pocet vrcholu: 6  
 - Pocet promennych: 25  
 - Pocet klauzuli: 166  
-- Doba behu: < 0.01 s  
+- Doba behu: 0.01 s  
 
 Solver vratil `UNSAT` podle ocekavani.
 
